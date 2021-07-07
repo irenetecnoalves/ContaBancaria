@@ -1,0 +1,13 @@
+C:\Users\Irene Alves\Desktop\terminal\bin\Debug\netcoreapp3.1\terminal.exe
+C:\Users\Irene Alves\Desktop\terminal\bin\Debug\netcoreapp3.1\terminal.deps.json
+C:\Users\Irene Alves\Desktop\terminal\bin\Debug\netcoreapp3.1\terminal.runtimeconfig.json
+C:\Users\Irene Alves\Desktop\terminal\bin\Debug\netcoreapp3.1\terminal.runtimeconfig.dev.json
+C:\Users\Irene Alves\Desktop\terminal\bin\Debug\netcoreapp3.1\terminal.dll
+C:\Users\Irene Alves\Desktop\terminal\bin\Debug\netcoreapp3.1\terminal.pdb
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.csprojAssemblyReference.cache
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.AssemblyInfoInputs.cache
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.AssemblyInfo.cs
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.csproj.CoreCompileInputs.cache
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.dll
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.pdb
+C:\Users\Irene Alves\Desktop\terminal\obj\Debug\netcoreapp3.1\terminal.genruntimeconfig.cache
